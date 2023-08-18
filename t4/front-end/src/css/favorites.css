@@ -1,0 +1,26 @@
+/*changing background color and changing width of container*/
+/*adjusting spacing by using margin and padding*/
+/*changing font style to italic*/
+.favorites-container {
+	background-color: rgb(176, 138, 144);
+	width: 500px;
+	border-radius: 20px;
+	margin-left: 90px;
+	margin-bottom: 70px;
+	padding-bottom: 10px;
+	font-style: italic;
+}
+
+/*changing background color and rounding the corners by using border radius*/
+.favorites-heading {
+	background-color: rgb(173, 118, 126);
+	border-radius: 20px;
+}
+
+/*changing background color and adjusting spacing by using margin*/
+/*aligning button to the end */
+button {
+	background-color: rgb(134, 36, 51);
+	margin-left: 10px;
+	align-items: end;
+}

@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot for search component front-end snapshot 1`] = `
+<div
+  className="search-container"
+>
+  <h1
+    className="main-heading"
+  >
+    Itunes API project:
+  </h1>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      className="search-input"
+      onChange={[Function]}
+      placeholder="Search.."
+    />
+    <div>
+      <label>
+        Movie
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="movie"
+      />
+    </div>
+    <div>
+      <label>
+        Podcast
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="podcast"
+      />
+    </div>
+    <div>
+      <label>
+        Music
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="music"
+      />
+    </div>
+    <div>
+      <label>
+        Music Video
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="musicVideo"
+      />
+    </div>
+    <div>
+      <label>
+        Audio Book
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="audiobook"
+      />
+    </div>
+    <div>
+      <label>
+        Short Film
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="shortFilm"
+      />
+    </div>
+    <div>
+      <label>
+        TV Show
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="tvShow"
+      />
+    </div>
+    <div>
+      <label>
+        Software
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="software"
+      />
+    </div>
+    <div>
+      <label>
+        E-Book
+      </label>
+       
+      <input
+        onClick={[Function]}
+        type="radio"
+        value="ebook"
+      />
+    </div>
+    <button
+      className="search-button"
+      type="submit"
+    >
+      Search
+    </button>
+  </form>
+</div>
+`;

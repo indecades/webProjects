@@ -1,0 +1,31 @@
+/*changing font style to italic*/
+.loading {
+	font-style: italic;
+}
+
+/*changing text front to italic and removing bullets from list*/
+/*adding spacing using margin*/
+.list {
+	font-style: italic;
+	list-style: none;
+	margin: 20px;
+}
+
+/*adding spacing using padding and margin*/
+/*rounding the corners by using border radius and adjusting the width*/
+li {
+	padding: 20px;
+	width: 400px;
+	border-radius: 20px;
+	margin: 20px;
+}
+
+/*adding spacing by using margin*/
+/*underlining text and changing font weight and style(italic)*/
+.search-heading {
+	margin-left: -135px;
+	font-style: italic;
+	font-weight: 100;
+	text-decoration: underline;
+	color: bisque;
+}

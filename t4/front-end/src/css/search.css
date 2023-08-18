@@ -1,0 +1,48 @@
+/*aligning text to center and removing the border*/
+/*adjusting spacing by using margin and changing font style to italic*/
+.search-input {
+	text-align: center;
+	border: none;
+	font-style: italic;
+	margin-bottom: 15px;
+}
+
+/*setting the hover to add a border and adding a border color*/
+.search-input:hover {
+	border-style: ridge;
+	border-color: rgb(217, 159, 251);
+}
+
+/*changing the background color and adjusting the space by using padding and margin*/
+/*adjusting the width of the container and aligning the text to center as well as changing the font style to italic*/
+.search-container {
+	background-color: rgba(128, 128, 128, 0.521);
+	text-align: center;
+	padding-bottom: 5px;
+	width: 400px;
+	border-radius: 20px;
+	margin-left: 90px;
+	font-style: italic;
+}
+
+/*changing the background color and rounding the corners by using border radius*/
+.main-heading {
+	background-color: rgba(121, 120, 120, 0.899);
+	border-radius: 20px;
+}
+
+/*adjusting the spacing by using margin and removing the border*/
+/*changing the background color to black*/
+.search-button {
+	margin-top: 15px;
+	background-color: rgba(0, 0, 0, 0.458);
+	border: none;
+}
+
+/*setting the hover action to:*/
+/*add a border and adjusting the border width to 1px and changing the border color*/
+.search-button:hover {
+	border-style: outset;
+	border-width: 1px;
+	border-color: gray;
+}
